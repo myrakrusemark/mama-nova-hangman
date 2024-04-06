@@ -2,6 +2,8 @@
 
 This is a two-player Hangman game created in Python using the Tkinter library for the graphical user interface (GUI). The game was developed in a morning session with my daughter after enjoying the paper version of the game. We collaborated with Anthropic's Claude3 to write the entire program, including the GUI and game logic, in about 3 hours. The background image for the game was generated using DallE 3.
 
+![Hangman Game Screenshot](screenshot.png)
+
 ## Rules of the Game
 
 1. The game is played between two players, taking turns as the "word provider" and the "guesser."
